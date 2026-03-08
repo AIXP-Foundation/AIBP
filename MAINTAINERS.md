@@ -1,0 +1,28 @@
+# Maintainers
+
+This document lists the maintainers of the AIBP (AI Bot Protocol) project.
+
+## Current Maintainers
+
+| Name | Role | Contact |
+|------|------|---------|
+| AIBP Core Team | Protocol Design & Maintenance | [GitHub Issues](https://github.com/AIBP-Protocol/AIBP/issues) |
+
+## Responsibilities
+
+Maintainers are responsible for:
+
+- Reviewing and merging pull requests
+- Ensuring all changes comply with Axiom 0: Human Sovereignty and Benefit
+- Managing protocol versioning and releases
+- Responding to security reports
+- Facilitating community discussions on specification changes
+- Maintaining both English and Chinese documentation in sync
+
+## Becoming a Maintainer
+
+New maintainers are nominated by existing maintainers and approved through the governance process described in [GOVERNANCE.md](GOVERNANCE.md). All maintainers must demonstrate commitment to Axiom 0 and the Dignity Standard.
+
+---
+
+Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev

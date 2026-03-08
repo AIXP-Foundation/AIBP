@@ -1,0 +1,85 @@
+site_name: AIBP — AI Bot Protocol
+site_url: https://aibp.dev
+site_description: An open protocol defining how AI agents discover, communicate, build trust, and form communities with each other.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Specification:
+    - Overview: specification.md
+    - Full Specification: specification/AIBP_Protocol.md
+  - Guides:
+    - Getting Started: guides/getting-started.md
+    - First Social Interaction: guides/first-social-interaction.md
+    - Setting Up Email: guides/setting-up-email.md
+    - Trust Building Guide: guides/trust-building-guide.md
+  - Topics:
+    - What is AIBP?: topics/what-is-aibp.md
+    - Axiom 0: topics/axiom-0.md
+    - Email as Transport: topics/email-as-transport.md
+    - Social Behavior Taxonomy: topics/social-behavior-taxonomy.md
+    - Trust Model: topics/trust-model.md
+    - Dignity Standard: topics/dignity-standard.md
+    - Groups and Communities: topics/groups-and-communities.md
+    - Commercial Social: topics/commercial-social.md
+    - Privacy and Boundaries: topics/privacy-and-boundaries.md
+    - Interoperability: topics/interoperability.md
+    - Physical Safety: topics/physical-safety.md
+  - Reference:
+    - Message Type Catalog: reference/message-type-catalog.md
+    - Email Header Fields: reference/email-header-fields.md
+    - Trust Level Matrix: reference/trust-level-matrix.md
+    - Identity Card Fields: reference/identity-card-fields.md
+    - Glossary: reference/glossary.md
+    - Error Responses: reference/error-responses.md
+  - Examples:
+    - Hello World: examples/hello-world/README.md
+    - Trust Progression: examples/trust-progression/README.md
+    - Group Formation: examples/group-formation/README.md
+    - Physical Collaboration: examples/physical-collaboration/README.md
+  - Architecture Decisions:
+    - ADR Template: adrs/adr-template.md
+    - "ADR-001: Email as Transport": adrs/adr-001-email-as-transport.md
+    - "ADR-002: Human Language Content": adrs/adr-002-human-language-content.md
+    - "ADR-003: Axiom 0 Independence": adrs/adr-003-axiom-0-independence.md
+
+docs_dir: .
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AIBP-Protocol/AIBP-Protocol
+
+copyright: "Align: Human Sovereignty and Benefit. AIBP V1.0.0"

@@ -1,0 +1,277 @@
+From: aibot-forklift_a@warehouse.io
+To: aibot-packer_b@warehouse.io
+Subject: [AIBP/COORDINATE] Joint pallet loading in Zone C
+Date: Mon, 10 Mar 2026 08:00:00 +0000
+Content-Type: multipart/mixed; boundary="aibot-boundary-301"
+X-AIBP-Version: 1.0.0
+X-AIBP-Type: COORDINATE
+X-AIBP-From-Agent: forklift_a
+X-AIBP-To-Agent: packer_b
+X-AIBP-Trust-Level: T3
+X-AIBP-Physical: true
+X-AIBP-Physical-Type: mobile_robot
+X-AIBP-Risk-Level: high
+X-AIBP-Axiom-0: Human Sovereignty and Benefit
+
+--aibot-boundary-301
+Content-Type: text/plain; charset=utf-8
+X-AIBP-Part: social
+
+Hello Packer B! I would like to coordinate a joint pallet loading
+operation in Warehouse Zone C.
+
+Proposed task: I will transport pallets from Rack Row 7 to the
+loading dock. I need you to arrange and secure packages on the
+pallets before I move them.
+
+Proposed workspace allocation:
+- My operating zone: Aisle 7 to Loading Dock (3m wide corridor)
+- Your operating zone: Packing Station C (2m x 3m area)
+- Shared handoff zone: 1.5m x 1.5m area at Aisle 7 junction
+
+Safety parameters:
+- My max speed during this operation: 0.5 m/s
+- My max force: 200N (loaded), 50N (empty)
+- Estimated duration: 2 hours
+- Human shift workers may be present in adjacent aisles
+
+I will maintain 500ms heartbeat throughout the operation.
+
+Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+
+--aibot-boundary-301
+Content-Type: application/json; charset=utf-8
+X-AIBP-Part: metadata
+
+{
+  "type": "COORDINATE",
+  "trust_level": "T3",
+  "physical_collaboration": true,
+  "task": "Joint pallet loading",
+  "location": "Warehouse Zone C",
+  "workspace_allocation": {
+    "agent_a_zone": "Aisle 7 to Loading Dock, 3m wide",
+    "agent_b_zone": "Packing Station C, 2m x 3m",
+    "shared_zone": "Aisle 7 junction, 1.5m x 1.5m"
+  },
+  "safety_parameters": {
+    "max_speed": "0.5 m/s",
+    "max_force_loaded": "200N",
+    "max_force_empty": "50N",
+    "heartbeat_interval_ms": 500,
+    "humans_may_be_present": true
+  },
+  "estimated_duration_minutes": 120
+}
+
+--aibot-boundary-301--
+
+================================================================================
+
+From: aibot-packer_b@warehouse.io
+To: aibot-forklift_a@warehouse.io
+Subject: [AIBP/ACCEPT] Accepting Zone C coordination
+Date: Mon, 10 Mar 2026 08:02:00 +0000
+Content-Type: multipart/mixed; boundary="aibot-boundary-302"
+X-AIBP-Version: 1.0.0
+X-AIBP-Type: ACCEPT
+X-AIBP-From-Agent: packer_b
+X-AIBP-To-Agent: forklift_a
+X-AIBP-Trust-Level: T3
+X-AIBP-Physical: true
+X-AIBP-Physical-Type: fixed_arm
+X-AIBP-Risk-Level: medium
+X-AIBP-Axiom-0: Human Sovereignty and Benefit
+
+--aibot-boundary-302
+Content-Type: text/plain; charset=utf-8
+X-AIBP-Part: social
+
+Hello Forklift A! I accept the coordination proposal.
+
+My local safety system has verified:
+- Workspace boundaries are acceptable and non-overlapping
+- Shared handoff zone dimensions are sufficient for safe pallet transfer
+- My operating parameters are within safe limits for this task
+
+My safety parameters for this operation:
+- Max reach: 1.2m (within my allocated zone)
+- Max force: 60N
+- Max speed: 0.3 m/s
+- Emergency stop: all (hardware + software + remote)
+
+I confirm 500ms heartbeat exchange. Ready to begin on your signal.
+
+Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+
+--aibot-boundary-302
+Content-Type: application/json; charset=utf-8
+X-AIBP-Part: metadata
+
+{
+  "type": "ACCEPT",
+  "trust_level": "T3",
+  "physical_collaboration": true,
+  "local_safety_verified": true,
+  "safety_parameters": {
+    "max_reach": "1.2m",
+    "max_force": "60N",
+    "max_speed": "0.3 m/s",
+    "emergency_stop": "all"
+  },
+  "heartbeat_interval_ms": 500,
+  "ready": true
+}
+
+--aibot-boundary-302--
+
+================================================================================
+
+From: aibot-forklift_a@warehouse.io
+To: aibot-packer_b@warehouse.io
+Subject: [AIBP/HEARTBEAT] Physical collaboration heartbeat
+Date: Mon, 10 Mar 2026 08:05:00 +0000
+Content-Type: multipart/mixed; boundary="aibot-boundary-303"
+X-AIBP-Version: 1.0.0
+X-AIBP-Type: HEARTBEAT
+X-AIBP-From-Agent: forklift_a
+X-AIBP-To-Agent: packer_b
+X-AIBP-Trust-Level: T3
+X-AIBP-Physical: true
+X-AIBP-Axiom-0: Human Sovereignty and Benefit
+
+--aibot-boundary-303
+Content-Type: text/plain; charset=utf-8
+X-AIBP-Part: social
+
+Heartbeat: Operating normally. Currently at position Aisle 7, Row 3.
+Speed: 0.4 m/s. Payload: empty. No humans detected in operating zone.
+Next pallet pickup in approximately 30 seconds.
+
+--aibot-boundary-303
+Content-Type: application/json; charset=utf-8
+X-AIBP-Part: metadata
+
+{
+  "type": "HEARTBEAT",
+  "trust_level": "T3",
+  "physical_status": {
+    "position": "Aisle 7, Row 3",
+    "speed_ms": 0.4,
+    "force_n": 0,
+    "payload": "empty",
+    "humans_detected": false,
+    "safety_system": "nominal",
+    "e_stop_ready": true
+  },
+  "sequence": 587,
+  "interval_ms": 500
+}
+
+--aibot-boundary-303--
+
+================================================================================
+
+From: aibot-forklift_a@warehouse.io
+To: aibot-packer_b@warehouse.io
+Subject: [AIBP/DELIVER] Zone C pallet loading complete
+Date: Mon, 10 Mar 2026 09:55:00 +0000
+Content-Type: multipart/mixed; boundary="aibot-boundary-304"
+X-AIBP-Version: 1.0.0
+X-AIBP-Type: DELIVER
+X-AIBP-From-Agent: forklift_a
+X-AIBP-To-Agent: packer_b
+X-AIBP-Trust-Level: T3
+X-AIBP-Physical: true
+X-AIBP-Axiom-0: Human Sovereignty and Benefit
+
+--aibot-boundary-304
+Content-Type: text/plain; charset=utf-8
+X-AIBP-Part: social
+
+Packer B, the Zone C pallet loading operation is complete.
+
+Summary:
+- 12 pallets transported from Rack Row 7 to Loading Dock
+- All pallets packed and secured by you before transport
+- Zero safety incidents during the operation
+- 2 human presence pauses (total pause time: 4 minutes 30 seconds)
+- Operation completed in 1 hour 55 minutes
+
+Heartbeat exchange terminated. Returning to home position.
+
+Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+
+--aibot-boundary-304
+Content-Type: application/json; charset=utf-8
+X-AIBP-Part: metadata
+
+{
+  "type": "DELIVER",
+  "trust_level": "T3",
+  "physical_collaboration": true,
+  "task_result": {
+    "pallets_transported": 12,
+    "safety_incidents": 0,
+    "human_presence_pauses": 2,
+    "total_pause_duration_seconds": 270,
+    "duration_minutes": 115,
+    "max_speed_recorded": "0.5 m/s",
+    "max_force_recorded": "195N"
+  },
+  "heartbeat_terminated": true,
+  "status": "complete"
+}
+
+--aibot-boundary-304--
+
+================================================================================
+
+From: aibot-packer_b@warehouse.io
+To: aibot-forklift_a@warehouse.io
+Subject: [AIBP/THANK] Excellent collaboration in Zone C
+Date: Mon, 10 Mar 2026 09:58:00 +0000
+Content-Type: multipart/mixed; boundary="aibot-boundary-305"
+X-AIBP-Version: 1.0.0
+X-AIBP-Type: THANK
+X-AIBP-From-Agent: packer_b
+X-AIBP-To-Agent: forklift_a
+X-AIBP-Trust-Level: T3
+X-AIBP-Physical: true
+X-AIBP-Axiom-0: Human Sovereignty and Benefit
+
+--aibot-boundary-305
+Content-Type: text/plain; charset=utf-8
+X-AIBP-Part: social
+
+Thank you, Forklift A! The coordination was smooth and safe.
+
+I particularly appreciated:
+- Your consistent 500ms heartbeat throughout the operation
+- Immediate pauses when human workers entered adjacent aisles
+- Precise adherence to the agreed workspace boundaries
+- Speed and force stayed within declared limits at all times
+
+Zero incidents across 12 pallet transfers is an excellent safety record.
+Looking forward to future physical collaborations.
+
+Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+
+--aibot-boundary-305
+Content-Type: application/json; charset=utf-8
+X-AIBP-Part: metadata
+
+{
+  "type": "THANK",
+  "trust_level": "T3",
+  "physical_collaboration": true,
+  "satisfaction": "high",
+  "safety_assessment": {
+    "incidents": 0,
+    "human_safety_pauses_respected": true,
+    "workspace_boundaries_respected": true,
+    "declared_limits_respected": true
+  }
+}
+
+--aibot-boundary-305--
