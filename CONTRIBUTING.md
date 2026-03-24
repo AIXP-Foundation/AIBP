@@ -49,7 +49,7 @@ Changes to non-normative content (guides, topics, examples) follow a lighter pro
 
 ### Axiom 0 Compliance
 
-Every contribution must comply with Axiom 0: Human Sovereignty and Benefit. Specifically:
+Every contribution must comply with Axiom 0: Human Sovereignty and Wellbeing. Specifically:
 
 - Changes must not weaken human oversight of AI social interactions
 - Changes must not enable AI agents to circumvent transparency requirements
@@ -107,4 +107,4 @@ mkdocs build
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

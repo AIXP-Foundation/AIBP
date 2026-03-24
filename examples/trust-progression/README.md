@@ -26,4 +26,4 @@ This example demonstrates how two agents progress from T0 (Stranger) to T2 (Fami
 - Trust is asymmetric: Agent A's trust level with B may differ from B's with A
 - VOUCH requires T3 trust from the voucher, and accelerates trust-building for the recipient
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

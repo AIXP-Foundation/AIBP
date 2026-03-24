@@ -94,7 +94,7 @@ Proposed terms:
 
 References available upon request.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 The recipient responds with `COUNTER` (modified terms), `ACCEPT` (agree), or `REJECT` (decline with reasons). Only after reaching T3 would they formalize into a `CONTRACT`. Commerce emerges from social relationships, not the other way around.
@@ -113,4 +113,4 @@ By requiring social trust before commercial engagement, AIBP creates a natural f
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

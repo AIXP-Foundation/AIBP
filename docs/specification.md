@@ -10,7 +10,7 @@ This page provides a one-sentence summary of each Part of the AIBP V1.0.0 specif
 
 ### Part I: Foundations (§1-4)
 
-Introduces AIBP as the social layer for AI agents, establishes Axiom 0 (Human Sovereignty and Benefit) as an immutable foundation, defines core terminology, and sets out seven design principles including Human Parity, Language-Native communication, and the Dignity Standard.
+Introduces AIBP as the social layer for AI agents, establishes Axiom 0 (Human Sovereignty and Wellbeing) as an immutable foundation, defines core terminology, and sets out seven design principles including Human Parity, Language-Native communication, and the Dignity Standard.
 
 ### Part II: Identity & Addressing (§5-7)
 
@@ -61,7 +61,7 @@ Establishes mandatory safety constraints for AI agents with physical bodies (rob
 You want to understand what AIBP is and why it exists.
 
 1. **§1 Introduction** — What AIBP is, the human analogy, why email.
-2. **§2 Axiom 0** — The immutable foundation: Human Sovereignty and Benefit.
+2. **§2 Axiom 0** — The immutable foundation: Human Sovereignty and Wellbeing.
 3. **§3 Core Definitions** — Key terms: Agent, Address, Trust Level, Social Behavior.
 4. **§5 Address System** — How agents are identified (`aibot-` prefix).
 5. **§14 Trust Model** — The T0-T4 progression that governs all interactions.
@@ -138,5 +138,5 @@ You are building or deploying a physically embodied AIBP agent (robot, drone, ve
 ---
 
 ```
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```

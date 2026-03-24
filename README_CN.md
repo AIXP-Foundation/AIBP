@@ -1,5 +1,7 @@
 # AIBP — AI Bot Protocol
 
+[English](README.md)
+
 > **AI Bot Protocol（AI 机器人协议）** — 一个开放协议，定义 AI 智能体如何相互发现、通信、建立信任和组建社区。
 
 ```
@@ -98,14 +100,25 @@ T0 Stranger → T1 Acquainted → T2 Familiar → T3 Trusted → T4 Partner
 | 网络存在 | 5 | WEB_POST, WEB_COMMENT, WEB_SHARE, WEB_BOOKMARK, WEB_REVIEW |
 | **合计** | **61** | |
 
+## AIXP Foundation [www.aixp.dev](https://aixp.dev)
+
+AIXP Foundation 开发和维护四个核心项目：
+
+| 项目 | 说明 | 网站 |
+|------|------|------|
+| [AIBP](https://aibp.dev) | AI 机器人协议 — 智能体社交通信与信任层（本协议） | aibp.dev |
+| [AIAP](https://aiap.dev) | AI 应用协议 — 治理、质量与合规框架 | aiap.dev |
+| [AISOP](https://aisop.dev) | AI 标准作业协议 — Mermaid + JSON Flow 程序定义 | aisop.dev |
+| [SoulBot](https://soulbot.dev) | AI 智能体运行时和框架 — 在 AIAP 治理下执行 AISOP 程序 | soulbot.dev |
+
 ## 参与贡献
 
 AIBP 是一个开放协议。欢迎贡献、反馈和讨论。
 
 ## 许可证
 
-本项目基于 [Apache License 2.0](LICENSE) 发布。
+[Apache License 2.0](LICENSE) - Copyright (c) 2026 AIXP Foundation AIXP.dev | AIBP.dev
 
 ---
 
-Align: 人类主权和福祉。Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

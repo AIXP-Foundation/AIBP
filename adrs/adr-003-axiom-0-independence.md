@@ -24,13 +24,13 @@ AIBP Protocol Authors
 
 ## Context
 
-AIBP's Axiom 0 (Human Sovereignty and Benefit) is identical in content to AIAP's Axiom 0. This raises a question: does AIBP inherit, share, or derive its Axiom 0 from AIAP?
+AIBP's Axiom 0 (Human Sovereignty and Wellbeing) is identical in content to AIAP's Axiom 0. This raises a question: does AIBP inherit, share, or derive its Axiom 0 from AIAP?
 
 Both protocols exist within the AIXP Foundation ecosystem. AIAP governs AI application behavior; AIBP governs AI social behavior. They operate at different layers but serve the same ultimate principle.
 
 ## Decision
 
-AIBP independently establishes Axiom 0: Human Sovereignty and Benefit. AIBP's Axiom 0 is NOT inherited from, shared with, or derived from AIAP. The two protocols arrive at the same axiom through independent reasoning.
+AIBP independently establishes Axiom 0: Human Sovereignty and Wellbeing. AIBP's Axiom 0 is NOT inherited from, shared with, or derived from AIAP. The two protocols arrive at the same axiom through independent reasoning.
 
 ## Rationale
 
@@ -59,4 +59,4 @@ AIBP independently establishes Axiom 0: Human Sovereignty and Benefit. AIBP's Ax
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

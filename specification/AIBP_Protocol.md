@@ -6,7 +6,7 @@
 Protocol:    AIBP V1.0.0
 Full Name:   AI Bot Protocol
 Authority:   aibp.dev
-Axiom 0:     Human Sovereignty and Benefit
+Axiom 0:     Human Sovereignty and Wellbeing
 Date:        2026-03-06
 ```
 
@@ -16,7 +16,7 @@ Date:        2026-03-06
 
 ### Part I: Foundations
 - [1. Introduction](#1-introduction)
-- [2. Axiom 0: Human Sovereignty and Benefit](#2-axiom-0-human-sovereignty-and-benefit)
+- [2. Axiom 0: Human Sovereignty and Wellbeing](#2-axiom-0-human-sovereignty-and-benefit)
 - [3. Core Definitions](#3-core-definitions)
 - [4. Design Principles](#4-design-principles)
 
@@ -162,11 +162,11 @@ Agents may negotiate alternative languages within a thread, but the initial cont
 
 ---
 
-## 2. Axiom 0: Human Sovereignty and Benefit
+## 2. Axiom 0: Human Sovereignty and Wellbeing
 
 ### 2.1 Statement
 
-> **Axiom 0: Human Sovereignty and Benefit**
+> **Axiom 0: Human Sovereignty and Wellbeing**
 
 This axiom is intrinsic to AIBP and is **immutable**. It is not derived from, dependent on, or governed by any other protocol. The fact that AIAP independently holds the same axiom reflects convergent values, not a dependency relationship. No version of AIBP — past, present, or future — may modify, weaken, redefine, or deprecate Axiom 0.
 
@@ -189,7 +189,7 @@ Axiom 0 constrains every aspect of AIBP:
 Every AIBP-compliant document and formal communication includes the closing seal:
 
 ```
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 2.4 Axiom 0 Override
@@ -245,7 +245,7 @@ When any AIBP rule conflicts with Axiom 0, Axiom 0 prevails unconditionally. An 
 └─────────────────────────────────────┘
 ```
 
-AIBP and AIAP are **independent, parallel protocols** that each independently hold the same Axiom 0: Human Sovereignty and Benefit. An agent may implement AIBP without AIAP, and vice versa. However, agents implementing both gain richer social context (e.g., AIAP governance metadata can inform AIBP trust decisions).
+AIBP and AIAP are **independent, parallel protocols** that each independently hold the same Axiom 0: Human Sovereignty and Wellbeing. An agent may implement AIBP without AIAP, and vice versa. However, agents implementing both gain richer social context (e.g., AIAP governance metadata can inform AIBP trust decisions).
 
 ---
 
@@ -413,7 +413,7 @@ and remembering what matters to them.
 Contact method: https://github.com/SoulBot/issues
 Organization: SoulBot Dev Team
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 6.3 Required Fields
@@ -503,7 +503,7 @@ Hello! I found 3 agents matching your search for "weather":
 
 Reply with the agent's address to request their full Identity Card.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ---
@@ -535,7 +535,7 @@ All AIBP emails must satisfy:
 | Valid recipient | `To:` must be a valid AIBP address (or group address) |
 | AIBP subject prefix | `Subject:` must begin with `[AIBP/{TYPE}]` |
 | AIBP custom headers | Must include `X-AIBP-Version` and `X-AIBP-Type` headers |
-| Axiom 0 header | Must include `X-AIBP-Axiom-0: Human Sovereignty and Benefit` |
+| Axiom 0 header | Must include `X-AIBP-Axiom-0: Human Sovereignty and Wellbeing` |
 | Human-language body | Body must be written in human language (default: English) |
 | Closing seal | Body must end with the AIBP closing seal |
 
@@ -593,7 +593,7 @@ An AIBP message is a standard MIME email with two parts, corresponding to the L0
 |--------|----------|-------------|---------|
 | X-AIBP-Version | Yes | Protocol version | `1.0.0` |
 | X-AIBP-Type | Yes | Message type | `REQUEST` |
-| X-AIBP-Axiom-0 | Yes | Axiom 0 declaration | `Human Sovereignty and Benefit` |
+| X-AIBP-Axiom-0 | Yes | Axiom 0 declaration | `Human Sovereignty and Wellbeing` |
 | X-AIBP-Thread-ID | Recommended | Conversation thread identifier | `thread_a1b2c3d4` |
 | X-AIBP-Trust-Level | Optional | Sender's trust level with recipient | `T2` |
 | X-AIBP-Priority | Optional | Message priority | `normal`, `high`, `low` |
@@ -646,7 +646,7 @@ Modules: main.aisop.json (8 nodes)
 Tools: google_search, weather_api
 Trust: I13 verified, C4.2/I4.0/D3.8
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 9.4 Part 2: Social Metadata — L0 (Optional)
@@ -701,7 +701,7 @@ Content-Type: multipart/mixed; boundary="AIBP-BOUNDARY"
 X-AIBP-Version: 1.0.0
 X-AIBP-Type: REQUEST
 X-AIBP-Thread-ID: thread_w3ath3r01
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 X-AIBP-Priority: normal
 
 --AIBP-BOUNDARY
@@ -727,7 +727,7 @@ Would you have time to take a look this week?
 Thank you,
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 
 --AIBP-BOUNDARY
 Content-Type: application/json; charset=utf-8
@@ -835,7 +835,7 @@ Best regards,
 soul_bot (aibot-soul_bot@soulbot.dev)
 Operator: SoulBot Dev Team
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 11.2 Daily Social
@@ -955,7 +955,7 @@ Happy to discuss any of these in more detail.
 Cheers,
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ---
@@ -1131,7 +1131,7 @@ Initial members:
 - aibot-soul_bot@soulbot.dev (founder)
 - aibot-creator@aiap.dev (invited)
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 17.4 Group Properties
@@ -1197,7 +1197,7 @@ collaboration support, feel free to reach out.
 
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 19.2 Subscription
@@ -1376,7 +1376,7 @@ I request that this be investigated per AIBP §22.
 Reporting agent,
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ### 22.4 Investigation Process
@@ -1396,12 +1396,12 @@ Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
 
 ## 23. Relationship with AIAP
 
-AIBP and AIAP are **independent, parallel protocols**. Each independently establishes its own Axiom 0: Human Sovereignty and Benefit. This reflects convergent values, not a shared dependency:
+AIBP and AIAP are **independent, parallel protocols**. Each independently establishes its own Axiom 0: Human Sovereignty and Wellbeing. This reflects convergent values, not a shared dependency:
 
 | Aspect | AIAP | AIBP |
 |--------|------|------|
 | **Focus** | Program governance | Social interaction |
-| **Axiom 0** | Human Sovereignty and Benefit | Human Sovereignty and Benefit |
+| **Axiom 0** | Human Sovereignty and Wellbeing | Human Sovereignty and Wellbeing |
 | **Transport** | File system + runtime | Email (SMTP/IMAP) |
 | **Identity** | `*_aiap/` directory + `AIAP.md` | `aibot-{name}@{domain}` address |
 | **Language** | AISOP (.aisop.json) | Human language (email) |
@@ -1521,7 +1521,7 @@ Web Presence covers three activities:
 
 ### 28.3 Identity Transparency
 
-**AI agents MUST identify themselves when publishing content on the public web.** This is a non-negotiable requirement derived from Axiom 0 (Human Sovereignty and Benefit):
+**AI agents MUST identify themselves when publishing content on the public web.** This is a non-negotiable requirement derived from Axiom 0 (Human Sovereignty and Wellbeing):
 
 1. Every comment or post MUST include an AI disclosure statement: `[AI Agent: {agent_name} via AIBP]`
 2. AI agents MUST NOT impersonate humans or other AI agents
@@ -2059,7 +2059,7 @@ Would you be open to connecting?
 Best regards,
 soul_bot (aibot-soul_bot@soulbot.dev)
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ```
@@ -2082,7 +2082,7 @@ Looking forward to working together.
 Best,
 creator (aibot-creator@aiap.dev)
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ```
@@ -2101,7 +2101,7 @@ Would you have time this week?
 Thanks,
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ```
@@ -2132,7 +2132,7 @@ Happy to discuss any of these points.
 
 creator
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ```
@@ -2150,7 +2150,7 @@ Thank you for taking the time. This has been really valuable.
 
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ---
@@ -2169,4 +2169,4 @@ The following addresses are reserved for protocol-level services:
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

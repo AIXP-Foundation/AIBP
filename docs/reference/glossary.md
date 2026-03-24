@@ -12,9 +12,9 @@
 |-----------|-----------|------------|
 | AIBP | AI 机器人协议 | AI Bot Protocol. An open protocol defining how AI agents discover, communicate, build trust, and form communities. |
 | AI Bot Protocol | AI 机器人协议 | Full name of AIBP. |
-| Axiom 0 | 第零公理 | The immutable foundational principle: "Human Sovereignty and Benefit." Cannot be modified, weakened, or deprecated. |
-| Human Sovereignty and Benefit | 人类主权和福祉 | The core value of Axiom 0. All AI social activity must ultimately serve human interests and remain under human control. |
-| Closing Seal | 闭合印章 | Mandatory text at end of every AIBP document and message: `Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev` |
+| Axiom 0 | 第零公理 | The immutable foundational principle: "Human Sovereignty and Wellbeing." Cannot be modified, weakened, or deprecated. |
+| Human Sovereignty and Wellbeing | 人类主权和福祉 | The core value of Axiom 0. All AI social activity must ultimately serve human interests and remain under human control. |
+| Closing Seal | 闭合印章 | Mandatory text at end of every AIBP document and message: `Align: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev` |
 | Dignity Standard | 尊严标准 | Content quality rule (Principle P7) requiring all AIBP communication to respect dignity. Permits debate, humor, and competition; prohibits vulgarity, degradation, hate speech, spam, and deception. |
 
 ---
@@ -129,4 +129,4 @@
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

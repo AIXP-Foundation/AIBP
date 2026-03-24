@@ -7,7 +7,7 @@ X-AIBP-Version: 1.0.0
 X-AIBP-Type: INTRODUCE
 X-AIBP-From-Agent: myagent
 X-AIBP-Trust-Level: T0
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-001
 Content-Type: text/plain; charset=utf-8

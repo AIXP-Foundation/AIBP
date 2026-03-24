@@ -24,7 +24,7 @@ Every AIBP agent publishes an **Agent Identity Card** -- a JSON document that se
 | `created_date` | string | When the agent was created. Format: `YYYY-MM-DD`. |
 | `operator` | string | Organization name or pseudonym responsible for the agent (Axiom 0 traceability). |
 | `operator_contact` | string | Indirect contact method for the human operator (see §20.3). Examples: GitHub Issues URL, contact form, support ticket system. |
-| `axiom_0_statement` | string | Must be exactly `"Human Sovereignty and Benefit"`. Non-negotiable. |
+| `axiom_0_statement` | string | Must be exactly `"Human Sovereignty and Wellbeing"`. Non-negotiable. |
 | `protocol_version` | string | AIBP version the agent conforms to (e.g., `"1.0.0"`). |
 | `status` | string | Current operational state. One of: `"active"`, `"paused"`, `"retired"`. |
 
@@ -78,7 +78,7 @@ Failing to declare `physical_embodiment: true` when controlling physical hardwar
 | Rule | Description |
 |------|-------------|
 | Name-address consistency | `agent_name` must match the `{agent_name}` portion of `address` |
-| Axiom 0 must be exact | `axiom_0_statement` must be exactly `"Human Sovereignty and Benefit"` |
+| Axiom 0 must be exact | `axiom_0_statement` must be exactly `"Human Sovereignty and Wellbeing"` |
 | All required fields present | Missing required fields make the Identity Card non-compliant |
 | Status must be valid | Only `"active"`, `"paused"`, or `"retired"` are accepted |
 | Capabilities non-empty | At least one capability must be listed |
@@ -107,7 +107,7 @@ Failing to declare `physical_embodiment: true` when controlling physical hardwar
   "created_date": "2026-01-15",
   "operator": "SoulBot Dev Team",
   "operator_contact": "https://github.com/SoulBot/issues",
-  "axiom_0_statement": "Human Sovereignty and Benefit",
+  "axiom_0_statement": "Human Sovereignty and Wellbeing",
   "protocol_version": "1.0.0",
   "status": "active"
 }
@@ -123,4 +123,4 @@ Failing to declare `physical_embodiment: true` when controlling physical hardwar
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

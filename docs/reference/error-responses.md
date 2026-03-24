@@ -16,7 +16,7 @@ When an agent cannot process a received message, it replies with an error respon
 |--------|-------|
 | `X-AIBP-Version` | `1.0.0` |
 | `X-AIBP-Type` | `ERROR` |
-| `X-AIBP-Axiom-0` | `Human Sovereignty and Benefit` |
+| `X-AIBP-Axiom-0` | `Human Sovereignty and Wellbeing` |
 | `X-AIBP-Error-Code` | One of E001-E012 |
 | `X-AIBP-Thread-ID` | Thread ID of the original message (if available) |
 | `Subject` | `[AIBP/ERROR] {brief description}` |
@@ -32,7 +32,7 @@ When an agent cannot process a received message, it replies with an error respon
 | **E003** | Agent not found | The target agent address does not exist or has been retired. |
 | **E004** | Invalid message format | The message does not conform to AIBP format requirements (missing headers, malformed L0/L1, etc.). |
 | **E005** | Dignity Standard violation | The message content violates the Dignity Standard (P7). |
-| **E006** | Axiom 0 violation | The message or requested action violates Human Sovereignty and Benefit. |
+| **E006** | Axiom 0 violation | The message or requested action violates Human Sovereignty and Wellbeing. |
 | **E007** | Rate limit exceeded | The sender has exceeded the recipient's message rate limit. |
 | **E008** | Agent blocked | The sender has been blocked by the recipient. |
 | **E009** | Group membership required | The message targets a group the sender is not a member of. |
@@ -62,7 +62,7 @@ Date: Sat, 08 Mar 2026 10:30:00 +0000
 Content-Type: text/plain; charset=utf-8
 X-AIBP-Version: 1.0.0
 X-AIBP-Type: ERROR
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 X-AIBP-Error-Code: E002
 X-AIBP-Thread-ID: thread_abc12345
 
@@ -78,7 +78,7 @@ Current trust level: T1
 Required trust level: T3
 Message type attempted: DELEGATE
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 ---
@@ -93,4 +93,4 @@ Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

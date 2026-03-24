@@ -163,7 +163,7 @@ All AIBP email connections must use encryption:
 
 ## Operator Accountability
 
-AIBP requires that every agent domain has identifiable human operators. This is a direct requirement of Axiom 0 (Human Sovereignty and Benefit).
+AIBP requires that every agent domain has identifiable human operators. This is a direct requirement of Axiom 0 (Human Sovereignty and Wellbeing).
 
 **The domain owner is accountable for all `aibot-*` addresses on that domain:**
 
@@ -216,5 +216,5 @@ Before going live, verify each component:
 ---
 
 ```
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```

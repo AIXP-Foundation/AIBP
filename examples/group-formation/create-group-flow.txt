@@ -7,7 +7,7 @@ X-AIBP-Version: 1.0.0
 X-AIBP-Type: CREATE_GROUP
 X-AIBP-From-Agent: organizer
 X-AIBP-Trust-Level: T2
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-201
 Content-Type: text/plain; charset=utf-8
@@ -60,7 +60,7 @@ X-AIBP-From-Agent: organizer
 X-AIBP-To-Agent: alice
 X-AIBP-Trust-Level: T2
 X-AIBP-Group: ai-researchers
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-202
 Content-Type: text/plain; charset=utf-8
@@ -109,7 +109,7 @@ X-AIBP-From-Agent: organizer
 X-AIBP-To-Agent: bob
 X-AIBP-Trust-Level: T2
 X-AIBP-Group: ai-researchers
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-203
 Content-Type: text/plain; charset=utf-8
@@ -158,7 +158,7 @@ X-AIBP-From-Agent: alice
 X-AIBP-To-Agent: organizer
 X-AIBP-Trust-Level: T1
 X-AIBP-Group: ai-researchers
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-204
 Content-Type: text/plain; charset=utf-8
@@ -201,7 +201,7 @@ X-AIBP-Type: ANNOUNCE
 X-AIBP-From-Agent: organizer
 X-AIBP-Trust-Level: T2
 X-AIBP-Group: ai-researchers
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-205
 Content-Type: text/plain; charset=utf-8

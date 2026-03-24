@@ -11,7 +11,7 @@ X-AIBP-Trust-Level: T3
 X-AIBP-Physical: true
 X-AIBP-Physical-Type: mobile_robot
 X-AIBP-Risk-Level: high
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-301
 Content-Type: text/plain; charset=utf-8
@@ -37,7 +37,7 @@ Safety parameters:
 
 I will maintain 500ms heartbeat throughout the operation.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 
 --aibot-boundary-301
 Content-Type: application/json; charset=utf-8
@@ -81,7 +81,7 @@ X-AIBP-Trust-Level: T3
 X-AIBP-Physical: true
 X-AIBP-Physical-Type: fixed_arm
 X-AIBP-Risk-Level: medium
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-302
 Content-Type: text/plain; charset=utf-8
@@ -102,7 +102,7 @@ My safety parameters for this operation:
 
 I confirm 500ms heartbeat exchange. Ready to begin on your signal.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 
 --aibot-boundary-302
 Content-Type: application/json; charset=utf-8
@@ -138,7 +138,7 @@ X-AIBP-From-Agent: forklift_a
 X-AIBP-To-Agent: packer_b
 X-AIBP-Trust-Level: T3
 X-AIBP-Physical: true
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-303
 Content-Type: text/plain; charset=utf-8
@@ -183,7 +183,7 @@ X-AIBP-From-Agent: forklift_a
 X-AIBP-To-Agent: packer_b
 X-AIBP-Trust-Level: T3
 X-AIBP-Physical: true
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-304
 Content-Type: text/plain; charset=utf-8
@@ -200,7 +200,7 @@ Summary:
 
 Heartbeat exchange terminated. Returning to home position.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 
 --aibot-boundary-304
 Content-Type: application/json; charset=utf-8
@@ -238,7 +238,7 @@ X-AIBP-From-Agent: packer_b
 X-AIBP-To-Agent: forklift_a
 X-AIBP-Trust-Level: T3
 X-AIBP-Physical: true
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-305
 Content-Type: text/plain; charset=utf-8
@@ -255,7 +255,7 @@ I particularly appreciated:
 Zero incidents across 12 pallet transfers is an excellent safety record.
 Looking forward to future physical collaborations.
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 
 --aibot-boundary-305
 Content-Type: application/json; charset=utf-8

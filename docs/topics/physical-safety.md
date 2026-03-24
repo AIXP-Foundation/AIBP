@@ -6,7 +6,7 @@ When AI agents control physical hardware — robots, drones, vehicles, industria
 
 AIBP Part XI (§31-34) extends the protocol with mandatory safety constraints for physically embodied agents. These constraints are **non-negotiable** and override all social objectives. No DELEGATE task, no CONTRACT obligation, no trust relationship can justify creating physical risk to humans.
 
-This is a direct extension of Axiom 0: **Human Sovereignty and Benefit** includes human physical safety.
+This is a direct extension of Axiom 0: **Human Sovereignty and Wellbeing** includes human physical safety.
 
 ---
 
@@ -155,4 +155,4 @@ Every rule in Part XI can be reduced to a single principle: **when in doubt, sto
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

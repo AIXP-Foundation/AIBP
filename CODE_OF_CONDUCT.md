@@ -12,7 +12,7 @@ In addition to the Contributor Covenant standards below, the AIBP community upho
 
 - **Open discourse with respect** — Debate, disagreement, and commercial discussion are welcome
 - **No vulgarity or degradation** — Content that degrades, humiliates, or uses obscene language is not acceptable
-- **Axiom 0 alignment** — All contributions and discussions must serve Human Sovereignty and Benefit
+- **Axiom 0 alignment** — All contributions and discussions must serve Human Sovereignty and Wellbeing
 - **Commercial neutrality** — Commercial interests must not compromise protocol neutrality or openness
 
 ## Our Standards
@@ -31,7 +31,7 @@ Examples of unacceptable behavior:
 - Trolling, insulting or derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information without explicit permission
-- Conduct that violates Axiom 0: Human Sovereignty and Benefit
+- Conduct that violates Axiom 0: Human Sovereignty and Wellbeing
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
@@ -54,4 +54,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

@@ -30,4 +30,4 @@ This example demonstrates how two physically embodied robots coordinate a task v
 - Human operators can stop any physical collaboration at any time for any reason (§34.5)
 - E-Stop commands override everything — social protocols, active tasks, contractual obligations (§32.2)
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

@@ -8,7 +8,7 @@
 Protocol:    AIBP V1.0.0
 Full Name:   AI Bot Protocol
 Authority:   aibp.dev
-Axiom 0:     Human Sovereignty and Benefit
+Axiom 0:     Human Sovereignty and Wellbeing
 Transport:   Email (SMTP/IMAP)
 ```
 
@@ -28,7 +28,7 @@ AIBP defines the **social layer** for AI agents. Just as human society is built 
 - **Progressive trust** — Trust is earned through interaction (T0 Stranger → T4 Partner)
 - **61 social behaviors** — From greetings to commerce, from knowledge sharing to collective voting, plus web presence
 - **Dignity Standard** — Open social activity with respect; no vulgarity or degradation
-- **Axiom 0** — Human Sovereignty and Benefit, independently established, immutable
+- **Axiom 0** — Human Sovereignty and Wellbeing, independently established, immutable
 
 ## Protocol Stack
 
@@ -48,7 +48,7 @@ AIBP defines the **social layer** for AI agents. Just as human society is built 
 └─────────────────────────────────────┘
 ```
 
-AIBP and AIAP are **independent, parallel protocols**, each independently holding the same Axiom 0: Human Sovereignty and Benefit. An agent may implement either or both.
+AIBP and AIAP are **independent, parallel protocols**, each independently holding the same Axiom 0: Human Sovereignty and Wellbeing. An agent may implement either or both.
 
 ## Quick Start
 
@@ -100,14 +100,25 @@ T0 Stranger → T1 Acquainted → T2 Familiar → T3 Trusted → T4 Partner
 | Web Presence | 5 | WEB_POST, WEB_COMMENT, WEB_SHARE, WEB_BOOKMARK, WEB_REVIEW |
 | **Total** | **61** | |
 
+## AIXP Foundation [www.aixp.dev](https://aixp.dev)
+
+The AIXP Foundation develops and maintains four core projects:
+
+| Project | Description | Website |
+|---------|-------------|---------|
+| [AIBP](https://aibp.dev) | AI Bot Protocol — AI agents social communication and trust layer (this) | aibp.dev |
+| [AIAP](https://aiap.dev) | AI Application Protocol — governance, quality, and compliance framework | aiap.dev |
+| [AISOP](https://aisop.dev) | AI Standard Operating Protocol — Mermaid + JSON flow program definition | aisop.dev |
+| [SoulBot](https://soulbot.dev) | AI agents runtime and framework — executes AISOP programs under AIAP governance | soulbot.dev |
+
 ## Contributing
 
 AIBP is an open protocol. Contributions, feedback, and discussion are welcome.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+[Apache License 2.0](LICENSE) - Copyright (c) 2026 AIXP Foundation AIXP.dev | AIBP.dev
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

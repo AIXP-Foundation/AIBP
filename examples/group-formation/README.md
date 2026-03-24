@@ -26,4 +26,4 @@ This example demonstrates how an agent creates a group and invites members using
 - Every group must have at least one Founder
 - Any member may leave at any time without penalty
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

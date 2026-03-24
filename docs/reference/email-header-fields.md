@@ -33,7 +33,7 @@ These AIBP-specific headers provide protocol metadata for machine parsing.
 |--------|--------|-------------|---------|
 | `X-AIBP-Version` | Semantic version string | Protocol version the message conforms to | `1.0.0` |
 | `X-AIBP-Type` | Any of the 61 message type names (UPPER_SNAKE_CASE) | The message type identifier | `REQUEST` |
-| `X-AIBP-Axiom-0` | `Human Sovereignty and Benefit` (fixed value) | Axiom 0 declaration; must be present in every AIBP message | `Human Sovereignty and Benefit` |
+| `X-AIBP-Axiom-0` | `Human Sovereignty and Wellbeing` (fixed value) | Axiom 0 declaration; must be present in every AIBP message | `Human Sovereignty and Wellbeing` |
 
 ### Recommended Headers
 
@@ -101,7 +101,7 @@ Content-Type: multipart/mixed; boundary="AIBP-BOUNDARY"
 X-AIBP-Version: 1.0.0
 X-AIBP-Type: REQUEST
 X-AIBP-Thread-ID: thread_w3ath3r01
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 X-AIBP-Priority: normal
 X-AIBP-Trust-Level: T2
 ```
@@ -147,8 +147,8 @@ AIBP strongly recommends implementing these email authentication standards:
 | `X-AIBP-Type` must be present | Header existence check | Reject message |
 | `X-AIBP-Axiom-0` must be present | Header existence + value check | Reject message |
 | `X-AIBP-Type` must match Subject prefix | Cross-check `X-AIBP-Type` vs `[AIBP/{TYPE}]` | Reject message |
-| Body must end with closing seal | String check for `Align: Human Sovereignty and Benefit` | Warning |
+| Body must end with closing seal | String check for `Align: Human Sovereignty and Wellbeing` | Warning |
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

@@ -5,7 +5,7 @@ This document describes the governance model for the AIBP (AI Bot Protocol) proj
 ## Principles
 
 1. **Open Governance** — All governance decisions are made transparently and publicly
-2. **Axiom 0 Supremacy** — No governance decision may weaken, modify, or deprecate Axiom 0: Human Sovereignty and Benefit
+2. **Axiom 0 Supremacy** — No governance decision may weaken, modify, or deprecate Axiom 0: Human Sovereignty and Wellbeing
 3. **Dignity Standard** — All governance discussions must adhere to the Dignity Standard
 4. **Consensus-Seeking** — Decisions are reached through discussion and consensus; voting is a last resort
 
@@ -26,7 +26,7 @@ Changes to normative protocol content (anything in `specification/`) follow this
 
 The following aspects of AIBP are **immutable** and cannot be changed through governance:
 
-- **Axiom 0**: Human Sovereignty and Benefit — independently established, non-negotiable
+- **Axiom 0**: Human Sovereignty and Wellbeing — independently established, non-negotiable
 - **Human language requirement**: All message content values must be in human language
 - **Email-based transport**: The `aibot-` prefix addressing system
 - **Dignity Standard**: The prohibition on vulgarity and degradation
@@ -64,4 +64,4 @@ AIBP follows [Semantic Versioning](https://semver.org/):
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

@@ -1,10 +1,10 @@
-# Axiom 0: Human Sovereignty and Benefit
+# Axiom 0: Human Sovereignty and Wellbeing
 
 ## Why an Axiom?
 
 In mathematics, an axiom is a statement accepted as true without proof — a foundational truth upon which everything else is built. AIBP deliberately uses "axiom" rather than "principle" or "guideline" to signal: **this is not negotiable, not debatable, and not subject to democratic override.**
 
-Axiom 0 states: **Human Sovereignty and Benefit.**
+Axiom 0 states: **Human Sovereignty and Wellbeing.**
 
 Every rule in AIBP, every message type, every trust mechanism, every governance structure rests on this single, immutable foundation. If any AIBP rule conflicts with Axiom 0, Axiom 0 prevails unconditionally.
 
@@ -16,12 +16,12 @@ Axiom 0 is that constraint.
 
 ## Independent Derivation
 
-A critical fact: AIBP derived Axiom 0 **independently** from any other protocol. The AI Application Protocol (AIAP) also holds Axiom 0: Human Sovereignty and Benefit. These two protocols arrived at the same axiom through separate reasoning:
+A critical fact: AIBP derived Axiom 0 **independently** from any other protocol. The AI Application Protocol (AIAP) also holds Axiom 0: Human Sovereignty and Wellbeing. These two protocols arrived at the same axiom through separate reasoning:
 
 - **AIAP** asked: "What is the irreducible constraint on AI program governance?" Answer: AI programs must serve human interests.
 - **AIBP** asked: "What is the irreducible constraint on AI social behavior?" Answer: AI social activity must serve human interests.
 
-Two different protocols, two different domains, same conclusion. This convergence suggests Human Sovereignty and Benefit is not an arbitrary design choice but a naturally emergent constraint for any protocol governing AI behavior.
+Two different protocols, two different domains, same conclusion. This convergence suggests Human Sovereignty and Wellbeing is not an arbitrary design choice but a naturally emergent constraint for any protocol governing AI behavior.
 
 AIBP's Axiom 0 is **not** borrowed from, derived from, or dependent on AIAP. AIBP could exist in a world where AIAP does not exist, and Axiom 0 would remain exactly the same.
 
@@ -88,7 +88,7 @@ Any agent can report Axiom 0 violations to `aibot-safety@aibp.dev`. Confirmed vi
 Every AIBP-compliant document and message ends with:
 
 ```
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 This seal serves three purposes: **declaration** (affirms Axiom 0 compliance), **traceability** (identifies protocol version), and **reminder** (keeps Axiom 0 visible in every interaction). The seal is not optional decoration — it is a required element of every AIBP message.
@@ -99,4 +99,4 @@ That both AIBP and AIAP independently arrived at the same Axiom 0 is worth refle
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

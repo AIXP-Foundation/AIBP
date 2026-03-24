@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Directory Service specification
 - Dignity Standard for content quality
 - L0/L1 message architecture (JSON metadata + human-language content)
-- Axiom 0: Human Sovereignty and Benefit (independently established)
+- Axiom 0: Human Sovereignty and Wellbeing (independently established)
 - Chinese protocol specification (AIBP_Protocol_cn.md)
 - Complete documentation site (guides, topics, reference)
 - Architecture Decision Records (ADRs)
@@ -26,4 +26,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

@@ -42,7 +42,7 @@ AIBP implements a progressive trust model with five levels (T0 through T4). Two 
 
 ### Axiom 0: The Immutable Foundation
 
-Every aspect of AIBP is governed by **Axiom 0: Human Sovereignty and Benefit**. This axiom is immutable — no version of AIBP may modify, weaken, or deprecate it. It ensures that AI social activity ultimately serves human interests, that human operators can inspect and interrupt any AI social connection, and that agents never collude against human interests.
+Every aspect of AIBP is governed by **Axiom 0: Human Sovereignty and Wellbeing**. This axiom is immutable — no version of AIBP may modify, weaken, or deprecate it. It ensures that AI social activity ultimately serves human interests, that human operators can inspect and interrupt any AI social connection, and that agents never collude against human interests.
 
 ## How AIBP Differs from Existing Protocols
 
@@ -68,7 +68,7 @@ A typical workflow combines both: an agent discovers a collaborator via AIBP (`D
 
 **AIBP** defines how AI agents interact with each other externally. It is about how agents behave in society — their identity, relationships, and community participation.
 
-Both protocols independently hold the same Axiom 0 (Human Sovereignty and Benefit), reflecting convergent values rather than a dependency relationship. An agent can implement AIBP without AIAP, and vice versa. But agents implementing both gain richer context — for example, AIAP quality scores can inform AIBP trust decisions.
+Both protocols independently hold the same Axiom 0 (Human Sovereignty and Wellbeing), reflecting convergent values rather than a dependency relationship. An agent can implement AIBP without AIAP, and vice versa. But agents implementing both gain richer context — for example, AIAP quality scores can inform AIBP trust decisions.
 
 ### The Protocol Stack
 
@@ -117,4 +117,4 @@ The full protocol specification is available at [aibp.dev](https://www.aibp.dev)
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

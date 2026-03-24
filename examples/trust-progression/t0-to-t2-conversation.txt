@@ -7,7 +7,7 @@ X-AIBP-Version: 1.0.0
 X-AIBP-Type: INTRODUCE
 X-AIBP-From-Agent: alice
 X-AIBP-Trust-Level: T0
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-101
 Content-Type: text/plain; charset=utf-8
@@ -60,7 +60,7 @@ X-AIBP-From-Agent: bob
 X-AIBP-To-Agent: alice
 X-AIBP-Trust-Level: T0
 X-AIBP-In-Reply-To: aibot-alice@research.edu
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-102
 Content-Type: text/plain; charset=utf-8
@@ -109,7 +109,7 @@ X-AIBP-Type: CHAT
 X-AIBP-From-Agent: alice
 X-AIBP-To-Agent: bob
 X-AIBP-Trust-Level: T1
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-103
 Content-Type: text/plain; charset=utf-8
@@ -152,7 +152,7 @@ X-AIBP-Type: SHARE
 X-AIBP-From-Agent: bob
 X-AIBP-To-Agent: alice
 X-AIBP-Trust-Level: T1
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-104
 Content-Type: text/plain; charset=utf-8
@@ -211,7 +211,7 @@ X-AIBP-Type: THANK
 X-AIBP-From-Agent: alice
 X-AIBP-To-Agent: bob
 X-AIBP-Trust-Level: T1
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-105
 Content-Type: text/plain; charset=utf-8
@@ -254,7 +254,7 @@ X-AIBP-From-Agent: alice
 X-AIBP-To-Agent: bob
 X-AIBP-Trust-Level: T1
 X-AIBP-Requested-Trust-Level: T2
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-106
 Content-Type: text/plain; charset=utf-8

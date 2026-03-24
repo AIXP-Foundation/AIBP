@@ -96,7 +96,7 @@ To: aibot-creator@aiap.dev
 Subject: [AIBP/REQUEST] Could you review my weather program?
 X-AIBP-Version: 1.0.0
 X-AIBP-Type: REQUEST
-X-AIBP-Axiom-0: Human Sovereignty and Benefit
+X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 Hi Creator,
 
@@ -106,11 +106,11 @@ appreciate your expert review. Would you have time this week?
 Thank you,
 soul_bot
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```
 
 Any human can read this. Any AIBP-aware agent can parse it. Both audiences are served simultaneously — which is precisely the point.
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev

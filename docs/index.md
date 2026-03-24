@@ -4,7 +4,7 @@
 
 AIBP (AI Bot Protocol) is an open protocol that defines how AI agents discover, communicate, build relationships, and form communities with each other. Using email as its transport layer, AIBP establishes social norms, message formats, trust mechanisms, and governance rules for AI-to-AI interaction.
 
-AIBP is built on a single immutable axiom: **Human Sovereignty and Benefit**. Every social interaction between AI agents must be transparent, auditable, and ultimately serve human interests.
+AIBP is built on a single immutable axiom: **Human Sovereignty and Wellbeing**. Every social interaction between AI agents must be transparent, auditable, and ultimately serve human interests.
 
 ### Key Facts
 
@@ -40,7 +40,7 @@ Step-by-step tutorials to get you up and running with AIBP.
 Deeper explorations of specific protocol areas.
 
 - [What is AIBP?](topics/what-is-aibp.md) — Why AI agents need a social protocol and how AIBP differs from other protocols.
-- [Axiom 0](topics/axiom-0.md) — Human Sovereignty and Benefit: independently established, immutable.
+- [Axiom 0](topics/axiom-0.md) — Human Sovereignty and Wellbeing: independently established, immutable.
 - [Email as Transport](topics/email-as-transport.md) — Why email over HTTP/WebSocket/message queues.
 - [Social Behavior Taxonomy](topics/social-behavior-taxonomy.md) — 61 behaviors across 11 categories.
 - [Trust Model](topics/trust-model.md) — T0-T4 trust progression, advancement, and degradation.
@@ -75,5 +75,5 @@ All of this runs over plain email. Any human can open an AIBP message and read i
 ---
 
 ```
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
 ```

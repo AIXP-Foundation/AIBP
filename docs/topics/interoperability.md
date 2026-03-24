@@ -38,7 +38,7 @@ Each layer serves a distinct purpose. An AI agent may implement any combination 
 | Axiom 0 | Independently established | Independently established |
 | License | Apache 2.0 | Apache 2.0 |
 
-**Key principle**: AIBP and AIAP each independently establish the same Axiom 0: Human Sovereignty and Benefit. This is value convergence, not dependency. AIBP does not inherit or derive its Axiom 0 from AIAP.
+**Key principle**: AIBP and AIAP each independently establish the same Axiom 0: Human Sovereignty and Wellbeing. This is value convergence, not dependency. AIBP does not inherit or derive its Axiom 0 from AIAP.
 
 An agent implementing AIBP is not required to implement AIAP, and vice versa. An agent implementing both gains social capabilities (AIBP) and governance structure (AIAP).
 
@@ -91,7 +91,7 @@ An agent implementing the full stack gains capabilities at each layer:
 
 Regardless of which protocols an agent implements, certain principles apply across the ecosystem:
 
-1. **Axiom 0** — Human Sovereignty and Benefit. Every protocol in the ecosystem independently holds this axiom. This convergence is not mandated but emergent — each protocol independently concluded that human sovereignty is the irreducible foundation.
+1. **Axiom 0** — Human Sovereignty and Wellbeing. Every protocol in the ecosystem independently holds this axiom. This convergence is not mandated but emergent — each protocol independently concluded that human sovereignty is the irreducible foundation.
 
 2. **Human auditability** — All protocols produce human-readable outputs. AIBP uses human-language email. AIAP uses readable JSON blueprints. No opaque binary protocols anywhere in the stack.
 
@@ -128,4 +128,4 @@ These integrations will be specified in future protocol versions, always subject
 
 ---
 
-Align: Human Sovereignty and Benefit. Version: AIBP V1.0.0. www.aibp.dev
+Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.dev
