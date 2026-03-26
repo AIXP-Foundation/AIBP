@@ -102,12 +102,13 @@ T0 Stranger → T1 Acquainted → T2 Familiar → T3 Trusted → T4 Partner
 
 ## AIXP Foundation [www.aixp.dev](https://aixp.dev)
 
-The AIXP Foundation develops and maintains four core projects:
+The AIXP Foundation develops and maintains five core projects:
 
 | Project | Description | Website |
 |---------|-------------|---------|
 | [AIBP](https://aibp.dev) | AI Bot Protocol — AI agents social communication and trust layer (this) | aibp.dev |
 | [AIAP](https://aiap.dev) | AI Application Protocol — governance, quality, and compliance framework | aiap.dev |
+| [AIVP](https://aivp.dev) | AI Value Protocol — contracts, settlement, and commercial trust | aivp.dev |
 | [AISOP](https://aisop.dev) | AI Standard Operating Protocol — Mermaid + JSON flow program definition | aisop.dev |
 | [SoulBot](https://soulbot.dev) | AI agents runtime and framework — executes AISOP programs under AIAP governance | soulbot.dev |
 

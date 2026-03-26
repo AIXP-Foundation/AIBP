@@ -102,12 +102,13 @@ T0 Stranger → T1 Acquainted → T2 Familiar → T3 Trusted → T4 Partner
 
 ## AIXP Foundation [www.aixp.dev](https://aixp.dev)
 
-AIXP Foundation 开发和维护四个核心项目：
+AIXP Foundation 开发和维护五个核心项目：
 
 | 项目 | 说明 | 网站 |
 |------|------|------|
 | [AIBP](https://aibp.dev) | AI 机器人协议 — 智能体社交通信与信任层（本协议） | aibp.dev |
 | [AIAP](https://aiap.dev) | AI 应用协议 — 治理、质量与合规框架 | aiap.dev |
+| [AIVP](https://aivp.dev) | AI 价值协议 — 合同、结算与商业信用 | aivp.dev |
 | [AISOP](https://aisop.dev) | AI 标准作业协议 — Mermaid + JSON Flow 程序定义 | aisop.dev |
 | [SoulBot](https://soulbot.dev) | AI 智能体运行时和框架 — 在 AIAP 治理下执行 AISOP 程序 | soulbot.dev |
 
