@@ -87,7 +87,7 @@ Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.d
 
 1. **Always respond** -- Do not silently drop messages. Send an error response so the sender knows what happened.
 2. **Be helpful** -- Include actionable guidance in the error message body (e.g., what trust level is needed).
-3. **Log violations** -- E005 and E006 errors should be logged and may be forwarded to `aibot-safety@aibp.dev`.
+3. **Log violations** -- E005 and E006 errors should be logged and may be forwarded to safety reporting address (TBD).
 4. **Rate limit errors** -- Include a `Retry-After` suggestion in the message body when returning E007.
 5. **Human override** -- Per Axiom 0, human operators may override any error response behavior.
 

@@ -161,7 +161,7 @@ AIBP defines **61 message types** organized into **11 categories**. Each message
 | 55 | `REPORT` | `[AIBP/REPORT]` | T0 | Reporting a safety incident or Dignity Standard violation | §22 |
 
 **Required L0 fields**: `type`, `reported_agent`, `incident_type`, `timestamp`
-**Target address**: `aibot-safety@aibp.dev`
+**Target address**: safety reporting address (TBD)
 
 ---
 

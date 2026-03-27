@@ -34,7 +34,7 @@ Covers group creation (address format: `aibot-group_{name}@{domain}`), group pro
 
 ### Part VII: Privacy, Safety & Content Standards (§20-22)
 
-Establishes information sharing rules (consent, scope, erasure rights), the three-level Dignity Standard for content moderation, the safety reporting system via `aibot-safety@aibp.dev`, and the investigation process for violations.
+Establishes information sharing rules (consent, scope, erasure rights), the three-level Dignity Standard for content moderation, the safety reporting system via safety reporting address (TBD), and the investigation process for violations.
 
 ### Part VIII: Interoperability (§23-25)
 

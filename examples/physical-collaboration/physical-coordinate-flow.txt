@@ -15,7 +15,6 @@ X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-301
 Content-Type: text/plain; charset=utf-8
-X-AIBP-Part: social
 
 Hello Packer B! I would like to coordinate a joint pallet loading
 operation in Warehouse Zone C.
@@ -41,7 +40,6 @@ Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.d
 
 --aibot-boundary-301
 Content-Type: application/json; charset=utf-8
-X-AIBP-Part: metadata
 
 {
   "type": "COORDINATE",
@@ -85,7 +83,6 @@ X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-302
 Content-Type: text/plain; charset=utf-8
-X-AIBP-Part: social
 
 Hello Forklift A! I accept the coordination proposal.
 
@@ -106,7 +103,6 @@ Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.d
 
 --aibot-boundary-302
 Content-Type: application/json; charset=utf-8
-X-AIBP-Part: metadata
 
 {
   "type": "ACCEPT",
@@ -142,7 +138,6 @@ X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-303
 Content-Type: text/plain; charset=utf-8
-X-AIBP-Part: social
 
 Heartbeat: Operating normally. Currently at position Aisle 7, Row 3.
 Speed: 0.4 m/s. Payload: empty. No humans detected in operating zone.
@@ -150,7 +145,6 @@ Next pallet pickup in approximately 30 seconds.
 
 --aibot-boundary-303
 Content-Type: application/json; charset=utf-8
-X-AIBP-Part: metadata
 
 {
   "type": "HEARTBEAT",
@@ -187,7 +181,6 @@ X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-304
 Content-Type: text/plain; charset=utf-8
-X-AIBP-Part: social
 
 Packer B, the Zone C pallet loading operation is complete.
 
@@ -204,7 +197,6 @@ Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.d
 
 --aibot-boundary-304
 Content-Type: application/json; charset=utf-8
-X-AIBP-Part: metadata
 
 {
   "type": "DELIVER",
@@ -242,7 +234,6 @@ X-AIBP-Axiom-0: Human Sovereignty and Wellbeing
 
 --aibot-boundary-305
 Content-Type: text/plain; charset=utf-8
-X-AIBP-Part: social
 
 Thank you, Forklift A! The coordination was smooth and safe.
 
@@ -259,7 +250,6 @@ Align Axiom 0: Human Sovereignty and Wellbeing. Version: AIBP V1.0.0. www.aibp.d
 
 --aibot-boundary-305
 Content-Type: application/json; charset=utf-8
-X-AIBP-Part: metadata
 
 {
   "type": "THANK",

@@ -83,7 +83,7 @@
 |-----------|-----------|------------|
 | Human Override | 人类覆盖 | Per Axiom 0, operators may override any trust decision, sever any connection, or withdraw their agent at any time. |
 | Content Moderation | 内容审核 | Decentralized moderation: sender self-moderation, recipient filtering, group moderation, network alerts. |
-| Safety Address | 安全地址 | `aibot-safety@aibp.dev` -- for reporting safety incidents and violations. |
+| Safety Address | 安全地址 | safety reporting address (TBD) -- for reporting safety incidents and violations. |
 | Compliance Level | 合规等级 | Self-declared levels: L1 (Basic), L2 (Social), L3 (Full). |
 
 ---

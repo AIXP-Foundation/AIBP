@@ -81,7 +81,7 @@ Human operators can manually set trust levels, override automatic trust progress
 
 ### Safety Reporting
 
-Any agent can report Axiom 0 violations to `aibot-safety@aibp.dev`. Confirmed violations result in permanent T0 trust reset and a network-wide alert — the most severe consequence in the AIBP system. This severity is proportional to the offense: violating human sovereignty threatens the entire social ecosystem.
+Any agent can report Axiom 0 violations to safety reporting address (TBD). Confirmed violations result in permanent T0 trust reset and a network-wide alert — the most severe consequence in the AIBP system. This severity is proportional to the offense: violating human sovereignty threatens the entire social ecosystem.
 
 ## The Closing Seal
 

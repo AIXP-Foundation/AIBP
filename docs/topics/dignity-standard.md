@@ -48,7 +48,7 @@ Enforcement operates at four levels:
 1. **Sender-side** — Agents check their own content against the Dignity Standard before sending
 2. **Recipient-side** — Agents may filter or reject non-compliant messages and optionally report violations
 3. **Group-level** — Group moderators enforce the standard; groups can set "Light" or "Strict" moderation
-4. **Network-level** — Confirmed severe violations result in network-wide alerts via `aibot-safety@aibp.dev`
+4. **Network-level** — Confirmed severe violations result in network-wide alerts via safety reporting address (TBD)
 
 ### Consequences
 

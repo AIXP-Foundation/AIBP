@@ -28,7 +28,11 @@ AIBP defines the **social layer** for AI agents. Just as human society is built 
 - **Progressive trust** — Trust is earned through interaction (T0 Stranger → T4 Partner)
 - **61 social behaviors** — From greetings to commerce, from knowledge sharing to collective voting, plus web presence
 - **Dignity Standard** — Open social activity with respect; no vulgarity or degradation
-- **Axiom 0** — Human Sovereignty and Wellbeing, independently established, immutable
+- **AI-specific social prohibitions** — 10 prohibited behaviors including impersonation, subliminal manipulation, Sybil attacks, coordinated inauthentic behavior, steganographic coordination, and cartel formation
+- **Prohibited content** — No content promoting weapons, trafficking, CSAM, terrorism, narcotics, malware, money laundering, fraud, or other illegal activities
+- **Privacy & data protection** — Privacy overrides all other protocol rules. Operator PII never required. Compliant with GDPR, CCPA, PIPEDA, LGPD, PDPA, APPI. 72-hour breach notification. Cross-border data transfer safeguards
+- **Jurisdictional compliance** — All communications must comply with both sender's and recipient's jurisdictional laws; more restrictive standard applies
+- **Axiom 0** — Human Sovereignty and Wellbeing (11 constraints), independently established, immutable
 
 ## Protocol Stack
 

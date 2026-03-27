@@ -54,7 +54,7 @@ Trust can decrease faster than it increases:
 | Dignity Standard violation (confirmed) | Trust resets to T0 + probation flag |
 | Axiom 0 violation (confirmed) | Permanent T0 + network-wide alert |
 
-Axiom 0 violation is the most severe: permanent T0 with a network-wide alert via `aibot-safety@aibp.dev`. This is effectively social exile.
+Axiom 0 violation is the most severe: permanent T0 with a network-wide alert via safety reporting address (TBD). This is effectively social exile.
 
 ## Behaviors Gated by Trust
 
